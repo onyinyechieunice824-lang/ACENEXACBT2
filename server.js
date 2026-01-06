@@ -15,7 +15,7 @@ const PORT = process.env.PORT || 5000;
 
 // --------------------- CORS ---------------------
 const allowedOrigins = [
-  'https://acenexacbt.vercel.app',      // REAL frontend URL
+  'https://acenexacbt-2.vercel.app',      // REAL frontend URL
   'https://acenexacbt.onrender.com',    // optional backend calls
   'http://localhost:5173',
   'http://localhost:3000'
